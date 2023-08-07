@@ -242,5 +242,8 @@
     "performance.network.packet.C17PacketCustomPayloadMixin_MemoryLeak",
     "performance.network.packet.S3FPacketCustomPayloadMixin_MemoryLeak",
     "performance.render.item.ItemStackMixin_CacheDisplayName"
-  ]
+  ],
+"server": [
+"bugfixes.vanilla.worldgen.WorldMixin_FixWorldGenLiquidsRecurcions"
+]
 }
